@@ -1,0 +1,10 @@
+Log Returns
+
+log return =R=ln(ptpt−1) = R = \ln\left(\frac{p_t}{p_{t-1}}\right)=R=ln(pt−1​pt​​)
+
+raw return = r = pt−pt−1pt−1 \frac{p_t - p_{t-1}}{p_{t-1}}pt−1​pt​−pt−1​​
+Converting between raw returns and log returns
+
+R=ln(r+1)R = \ln(r+1)R=ln(r+1)
+
+r=eR−1r = e^R - 1r=eR−1
